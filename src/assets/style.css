@@ -1,0 +1,33 @@
+.theme-bgcolor {
+    background-color: #74b9ff;
+}
+.contact-badge:hover {
+    opacity: 0.8;
+    transition: all .3s;
+}
+.badge-birthday {
+    background-color: #fdcb6e;
+}
+.badge-email {
+    background-color: #72c0f7;
+}
+.badge-telphone {
+    background-color: #26de81;
+}
+.badge-github {
+    background-color: #fafbfc;
+}
+.effect-link {
+    text-decoration: none;
+    color: rgba(56, 103, 214, 1.0);
+}
+.effect-link:hover {
+    text-decoration: underline solid rgba(56, 103, 214,1.0) 1px;
+}
+.certificate-img{
+    opacity: .6;
+}
+div:hover > .certificate-img{
+    opacity: 1;
+    transition: all .5s;
+}

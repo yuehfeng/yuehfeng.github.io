@@ -46,7 +46,7 @@ const experiences = ref([
         "theme": {
             "bgcolor": "rgba(252, 92, 101, .1)"
         },
-        "view": ""
+        "view": "https://nstcic.nutc.edu.tw/"
     },
     {
         "title": "國泰人壽行銷資訊部 後端工程師實習生",
@@ -68,7 +68,7 @@ const experiences = ref([
         "theme": {
             "bgcolor": "rgba(184, 233, 148, .1)"
         },
-        "view": ""
+        "view": "https://nstcas.nutc.edu.tw/"
     },
     {
         "title": "大學畢業專題",
